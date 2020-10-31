@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gauthamej.github.io/farmagainautomation/static/css/main.df80987e.chunk.css",
+    "main.js": "/gauthamej.github.io/farmagainautomation/static/js/main.2c088183.chunk.js",
+    "main.js.map": "/gauthamej.github.io/farmagainautomation/static/js/main.2c088183.chunk.js.map",
+    "runtime-main.js": "/gauthamej.github.io/farmagainautomation/static/js/runtime-main.694f72fa.js",
+    "runtime-main.js.map": "/gauthamej.github.io/farmagainautomation/static/js/runtime-main.694f72fa.js.map",
+    "static/js/2.f0b1a2fc.chunk.js": "/gauthamej.github.io/farmagainautomation/static/js/2.f0b1a2fc.chunk.js",
+    "static/js/2.f0b1a2fc.chunk.js.map": "/gauthamej.github.io/farmagainautomation/static/js/2.f0b1a2fc.chunk.js.map",
+    "static/js/3.837e9f40.chunk.js": "/gauthamej.github.io/farmagainautomation/static/js/3.837e9f40.chunk.js",
+    "static/js/3.837e9f40.chunk.js.map": "/gauthamej.github.io/farmagainautomation/static/js/3.837e9f40.chunk.js.map",
+    "index.html": "/gauthamej.github.io/farmagainautomation/index.html",
+    "static/css/main.df80987e.chunk.css.map": "/gauthamej.github.io/farmagainautomation/static/css/main.df80987e.chunk.css.map",
+    "static/js/2.f0b1a2fc.chunk.js.LICENSE.txt": "/gauthamej.github.io/farmagainautomation/static/js/2.f0b1a2fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.694f72fa.js",
+    "static/js/2.f0b1a2fc.chunk.js",
+    "static/css/main.df80987e.chunk.css",
+    "static/js/main.2c088183.chunk.js"
+  ]
+}
